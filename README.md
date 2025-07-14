@@ -1,30 +1,30 @@
 # Odin Recipes
 
-Este proyecto es una simple página web de recetas, desarrollada únicamente con HTML como parte de la práctica de The Odin Project. Su objetivo es mostrar cómo estructurar una página web básica y enlazar diferentes páginas internas.
+This project is a simple recipe website developed entirely with HTML as part of The Odin Project practice. Its main goal is to demonstrate how to structure a basic web page and link different internal pages.
 
-## Estructura del proyecto
+## Project Structure
 
-- `index.html`: Página principal, donde se listan enlaces a cada receta disponible.
-- Cada receta se encuentra en su propio archivo HTML y se accede a través de un enlace en la página principal.
+- `index.html`: The main page, listing links to each available recipe.
+- Each recipe is in its own HTML file and can be accessed through a link on the main page.
 
-## Cómo usar
+## How to Use
 
-1. Clona el repositorio:
+1. Clone the repository:
    ```bash
    git clone https://github.com/sol-parada/odin-recipes.git
    ```
-2. Abre el archivo `index.html` en tu navegador favorito.
-3. Haz clic en los enlaces para ver cada receta.
+2. Open the `index.html` file in your favorite browser.
+3. Click the links to view each recipe.
 
-## Características
+## Features
 
-- 100% HTML, sin CSS ni JavaScript.
-- Navegación sencilla entre la página principal y las recetas.
+- 100% HTML, no CSS or JavaScript.
+- Simple navigation between the main page and individual recipes.
 
-## Autor
+## Author
 
 sol-parada
 
-## Licencia
+## License
 
-Este proyecto es solo para fines educativos.
+This project is for educational purposes only.
